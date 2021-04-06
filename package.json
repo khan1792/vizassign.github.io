@@ -1,0 +1,14 @@
+{
+  "name": "@khan1792/assignments",
+  "main": "df6293242e7c337a@471.js",
+  "version": "471.0.0",
+  "homepage": "https://observablehq.com/@khan1792/assignments",
+  "author": {
+    "name": "Kanyao Han",
+    "url": "https://observablehq.com/@khan1792"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
